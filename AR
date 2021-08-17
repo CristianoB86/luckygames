@@ -228,6 +228,9 @@ http://190.2.144.44:8000/a/willene/live/22279.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoi
 #EXTINF:-1 tvg-name="SBT HD" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22279",SBT HD ALT 2 
 #EXTVLCOPT:http-user-agent=stagefright/1.2
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-name="SBT HD" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22279",SBT HD ALT 3
+http-user-agent=Guigo
+https://guigotv.akamaized.net/Content/HLS_Plano/Live/channel(SBT)/03.m3u8?hls_simples
 #EXTINF:-1 tvg-name="SPACE BRASIL" group-title="Brazil",SPACE BRASIL 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://185.183.34.174:8000/a/willene/live/22280.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
