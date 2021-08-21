@@ -9,17 +9,16 @@ http://185.183.32.8:8000/a/willene/live/22163.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoi
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://185.132.133.136:8000/a/willene/live/22168.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
 #EXTINF:-1 tvg-name="BANDSPORTS" group-title="Brazil" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BANDSPORTS
-#EXTVLCOPT:http-user-agent=XCIPTV-v3.0.8
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16698
-#EXTINF:-1 tvg-name="BANDSPORTS" group-title="Brazil" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png",BANDSPORTS NOVO
-#EXTVLCOPT:http-user-agent=Guigo
-https://guigotv.akamaized.net/Content/HLS_Plano/Live/channel(Band_Sports)/03.m3u8?hls_simples
+https://d1wwtskvr1r98k.cloudfront.net/22d48d4e768648da93b637a3bfc65b18/index_3.m3u8
 #EXTINF:-1 tvg-name="BAND" group-title="Brazil" tvg-logo="https://cdn.mitvstatic.com/channels/br_band_m.png",BAND HD
 #EXTVLCOPT:http-user-agent=XCIPTV-v3.0.8
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16697
 #EXTINF:-1 tvg-name="CANAL SONY" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22171",CANAL SONY 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://185.183.34.175:8000/a/willene/live/22171.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="CANAL SONY" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22171",CANAL CNN BRASIL 
+#EXTVLCOPT:http-user-agent=NX Play+/2.0.6
+http://45.177.139.68/CNN_BR_OK_1_/index.m3u8
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Brazil",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://185.183.34.174:8000/a/willene/live/22173.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
@@ -300,6 +299,8 @@ http://185.183.34.174:8000/a/willene/live/22306.ts?n=1&b=5&vavoo_auth=eyJkYXRhIj
 #EXTINF:-1 tvg-name="TV DIARIO BRASIL" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22307",TV DIARIO BRASIL(3) 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://185.183.34.174:8000/a/willene/live/22307.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
+#EXTINF:-1 tvg-name="TV CAMARA" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22306",TV CAMARA 
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-name="TV GLOBO PREMIUM" group-title="Brazil" tvg-logo="https://vjackson.info/live/logo?channel=22312",TV GLOBO PREMIUM(3) 
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://190.2.144.44:8000/a/willene/live/22312.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjk5OTk5OTk5OTk5OTksXCJ2YWxpZFVudGlsXCI6OTk5OTk5OTk5OTk5OSxcImlwc1wiOltcIjE4Ny4xNS4xMjQuMTE5XCIsXCIxODcuMTUuMTI0LjExOVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwiYW5kcm9pZFwiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCJjNXg0NU1URURkRDNadzlIRnlMZGI0T1VMTkFpSkZ6eldKUmZhYmw0Q1RNPVwifSIsInNpZ25hdHVyZSI6InNPQU9xMmY0MkRZNVI1Z056NFZhbUxaSm5pZzRBWEZTY0V0THZOSFdsWm1uUUxTdWU4NG9WQjVqeUtjaXh4blJWMWlVcWU1YzE1SFpxZHVhWkFWQXJFWDJZU0Q2QjU3MUhPcjRrMUxnc0J4eVZBVWJjZ3M4TWw1SG0vQkMzUTU0YmNGM1FHNDVGSTFuOVdLUnpPazM4dU13TFBaWW5LL2JVbjcrU2JhU1hBQT0ifQ==
